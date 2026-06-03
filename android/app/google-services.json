@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "316459256562",
+    "firebase_url": "https://baduylearn-default-rtdb.firebaseio.com",
+    "project_id": "baduylearn",
+    "storage_bucket": "baduylearn.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316459256562:android:338762130c04a05cab5e6b",
+        "android_client_info": {
+          "package_name": "com.example.baduylearn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcxUatBPVxzZhJvzJyA9fomNgxHwPEKXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
